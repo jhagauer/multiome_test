@@ -1,6 +1,6 @@
 library(Seurat)
 library(Signac)
-library(dyplr)
+library(dplyr)
 
 ###########################################################################
 # Script to run integration between samples and modalities WITH downsampling
